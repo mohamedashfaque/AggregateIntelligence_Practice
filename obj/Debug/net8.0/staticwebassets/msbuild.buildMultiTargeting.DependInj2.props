@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/DependInj2.props" />
+</Project>
